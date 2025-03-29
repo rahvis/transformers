@@ -28,6 +28,8 @@ Word2Vec has semantic meaning. Uses Neutal Network.
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/89294533-b82d-42b5-97aa-4a899fd6689e" />
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/71ebf84a-a6cc-4616-80b4-7acb8617af8e" />
+
 
 
 
